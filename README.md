@@ -6,3 +6,4 @@ The revised book surveys some of the popular dedicated Markdown editors designed
 
 The guide shows how to export Markdown files to different formats, using Pandoc, and how to create an Epub with Pandoc. It also shows how to edit the resulting ebook using *Calibre.*
 
+This book has been placed in Creative Commons, with an Attribution-NonCommercial-ShareAlike license. It may be freely copied and distributed.

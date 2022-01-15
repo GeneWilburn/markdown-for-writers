@@ -1,6 +1,6 @@
 # markdown-for-writers
 
-*Markdown for Writers, 2nd Ed., Rev.,* is an ebook guide for writers of fiction and nonfiction. It is a revision of the 2014 released of the first edition of *Markdown for Writers.*
+*Markdown for Writers, 2nd Ed., Rev.,* is an ebook guide for writers of fiction and nonfiction. It is a revision of the 2014 release of the first edition of *Markdown for Writers.*
 
 The revised book surveys some of the popular dedicated Markdown editors designed especially for writers, such as *iA Writer, Typora,* and *Ulysses.* Technical writers may also find it a useful beginning guide.
 
